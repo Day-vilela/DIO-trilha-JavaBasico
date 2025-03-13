@@ -35,7 +35,24 @@ public class TiposVariaveis {
        // VALOR_PI = 1; // não muda
         System.out.println(VALOR_PI);
 
-        // 
+        // OPERADORES 
+
+        /*
+         *  - Aritméticos: (+) adição, (-) subtração, (*) multipricação, (/) divisão e (%) resto ou modulo. 
+         * 
+         *  - Unários: Realizam alguns trabalhos básicos como incrementar, decrementar, inverter valores numéricos e booleanos. (++), (--), (+), (-) e (! - negação)
+         * 
+         *  - Relacionais: (==) igual a, (!=) diferernte de, (><) maior menor q, (>=) maior ou igual, (<=) menor igual q, etc.... 
+         * 
+         *  - Lógicos: && Lógico "E" , || Lógico "OU"
+         * 
+         *  - Ternários: Igual a condição if, porem estruturada em uma unica linha representados pelos simbolos ?: utiliza-se da seguinte forma: < Expressão condicional > ? < Caso condilçao true > : < Caso condição false >
+         * 
+         *  - Atribuição: (=) defini valor inicial ou sobrescreve  o valor de uma variavel.
+         * 
+         *  
+         *  OBS: O OPERADOR (+), QUANDO UTILIZADO EM VARIAVEIS DE TIPO TEXTO, REALIZARA A CONCATENAÇÃO DE TEXTOS. 
+         */
 
     }
 }
