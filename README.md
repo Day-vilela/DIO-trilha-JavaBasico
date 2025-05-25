@@ -19,24 +19,27 @@ Este repositório contém os exercícios e projetos desenvolvidos durante a Tril
 
 1. Clone o repositório:
 
-   ```bash
+```bash
    git clone https://github.com/Day-vilela/DIO-trilha-JavaBasico.git
-   ```
+```
 
 2. Navegue até o diretório do projeto desejado:
 
+```bash
 cd DIO-trilha-JavaBasico/ContaBanco
-
+```
 
 3. Compile o arquivo .java:
-
+   
+```bash
 javac ContaTerminal.java
-
+```
 
 4. Execute o programa:
-
+   
+```bash
 java ContaTerminal
-
+```
 
 
 📚 Créditos
